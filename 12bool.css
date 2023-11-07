@@ -24,7 +24,11 @@
 }
 
 /* regole colone */
-
+.col {
+    flex-grow: 1;
+    flex-basis: 0;
+    max-height: 100%;
+}
 
 .col-1{
     flex-basis: calc((100% / 12) * 1);
