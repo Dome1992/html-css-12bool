@@ -24,6 +24,12 @@
 }
 
 /* regole colone */
+[class*="col-"] {
+    flex: 0 0 auto;
+    padding:5px
+}
+
+
 .col {
     flex-grow: 1;
     flex-basis: 0;

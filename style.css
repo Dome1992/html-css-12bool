@@ -9,6 +9,7 @@
     background-color: aqua;
     border: solid 1px white;
     min-height: 50px;
+    
 }
 .row1{
     display: flex;
