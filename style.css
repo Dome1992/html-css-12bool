@@ -5,8 +5,17 @@
 }
  /*regole debug*/
 [class*="col-"] {
-    flex: 0 0 auto;
+    
     background-color: aqua;
     border: solid 1px white;
-    min-height: 100px;
+    min-height: 50px;
+}
+
+.nested{
+    background-color: chartreuse;
+    min-height: 30px;
+}
+
+section{
+    margin-top:15px;
 }
