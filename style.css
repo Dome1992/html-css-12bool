@@ -11,16 +11,19 @@
     min-height: 50px;
     
 }
-.row1{
+#col-flex{
     display: flex;
-    flex-direction: row;
-    
+    justify-content: center;
+    align-items: center;
 }
-
 .nested{
     background-color: chartreuse;
-    
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
+    
+
 
 section{
     margin-top:15px;
