@@ -15,9 +15,10 @@
     flex-direction: row;
     
 }
+
 .nested{
     background-color: chartreuse;
-    min-height: 30px;
+    
 }
 
 section{
